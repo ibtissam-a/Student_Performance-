@@ -1,0 +1,146 @@
+student_id;weekly_study_hours;reading_frequeny(non_scientific books_journals);reading_frequeny(scientific books_journals);attendance_to_seminars_conferences_related_to_department;impact_of_projects_activities_on_success;class_attendence;mid_term_exams_preparation;mid_term_exams_preparation_time;taking_notes_in_classes;listening_in_class;discussion_improves_interest_success_in_course;flip_classroom; cumulative_grade_point_average_last_semester;expected_cumulative_grade_point_average_graduation;course_id;output_grade
+STUDENT1;9;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;never;useful;1.41;1.5;1;Poor
+STUDENT2;2;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;useful;2.01;2.74;1;Poor
+STUDENT3;2;None;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;never;not useful;2.49;2.34;1;Poor
+STUDENT4;6;None;Sometimes;yes;positive;always;alone;regularly during the semester;always;sometimes;sometimes;not useful;2.79;2.27;1;Poor
+STUDENT5;4;None;None;yes;positive;always;with friends;closest date to the exam;sometimes;sometimes;sometimes;not useful;2.38;2.28;1;Poor
+STUDENT6;0;None;Sometimes;yes;positive;always;alone;closest date to the exam;never;sometimes;never;useful;3.37;3.08;1;Below Average
+STUDENT7;2;Sometimes;Sometimes;no;positive;sometimes;alone;closest date to the exam;always;always;always;not applicable;3.44;3.11;1;Good
+STUDENT8;0;Sometimes;Sometimes;yes;positive;always;not applicable;closest date to the exam;always;sometimes;sometimes;not useful;1.18;1.22;1;Below Average
+STUDENT9;0;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;useful;3.2;2.69;1;Good
+STUDENT10;4;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;useful;1.21;2.26;1;Fail
+STUDENT11;0;None;None;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;useful;1.84;1.26;1;Below Average
+STUDENT12;7;Often;Often;yes;neutral;always;not applicable;regularly during the semester;always;never;always;not applicable;3.41;2.73;1;Fail
+STUDENT13;8;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;sometimes;not applicable;3.48;2.00;1;Fail
+STUDENT14;0;Sometimes;None;yes;positive;sometimes;alone;closest date to the exam;always;sometimes;always;not applicable;3.39;2.46;1;Poor
+STUDENT15;2;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;always;sometimes;not useful;3.31;3.39;1;Below Average
+STUDENT16;2;Sometimes;Sometimes;no;neutral;sometimes;alone;closest date to the exam;always;sometimes;sometimes;not applicable;2.16;2.04;1;Below Average
+STUDENT17;1;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;always;sometimes;always;not applicable;3.33;2.61;1;Poor
+STUDENT18;4;Sometimes;Sometimes;no;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;useful;2.22;2.25;1;Below Average
+STUDENT19;29;Often;Sometimes;no;positive;sometimes;alone;closest date to the exam;always;never;always;not applicable;2.71;2.87;1;Below Average
+STUDENT20;11;Sometimes;Sometimes;yes;negative;always;alone;closest date to the exam;always;sometimes;sometimes;not applicable;2.37;2.72;1;Average
+STUDENT21;11;Sometimes;Sometimes;no;positive;always;alone;regularly during the semester;always;never;sometimes;not applicable;3.02;3.02;1;Poor
+STUDENT22;7;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;never;always;not applicable;2.95;2.81;1;Poor
+STUDENT23;10;Often;Often;yes;positive;always;alone;regularly during the semester;always;never;sometimes;not applicable;2.79;2.76;1;Average
+STUDENT24;10;Sometimes;Often;yes;positive;sometimes;alone;closest date to the exam;always;sometimes;always;not applicable;2.63;2.97;1;Poor
+STUDENT25;0;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;never;always;useful;3.13;3.31;1;Below Average
+STUDENT26;4;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;never;always;useful;1.85;2.07;1;Average
+STUDENT27;2;Often;Sometimes;yes;positive;always;alone;closest date to the exam;always;always;always;useful;2.13;0.49;1;Poor
+STUDENT28;7;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;always;never;sometimes;not useful;2.44;0.67;1;Poor
+STUDENT29;3;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;not applicable;3.54;3.21;1;Average
+STUDENT30;2;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;useful;3.39;2.94;1;Good
+STUDENT31;3;Sometimes;Sometimes;yes;positive;always;with friends;closest date to the exam;sometimes;always;always;not applicable;3.98;3.09;1;Good
+STUDENT32;3;Sometimes;Often;yes;positive;always;alone;closest date to the exam;always;always;sometimes;not applicable;3.04;2.54;1;Average
+STUDENT33;3;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;not useful;2.02;2.56;1;Poor
+STUDENT34;2;None;Sometimes;yes;positive;always;alone;closest date to the exam;never;always;sometimes;useful;2.14;2.62;1;Below Average
+STUDENT35;1;None;None;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;always;not useful;3.03;1.37;1;Below Average
+STUDENT36;2;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;never;always;not useful;1.9;1.47;1;Poor
+STUDENT37;0;None;Often;yes;positive;sometimes;with friends;closest date to the exam;sometimes;never;sometimes;not useful;3.35;2.52;1;Below Average
+STUDENT38;2;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;not applicable;3.58;3.24;1;Poor
+STUDENT39;6;Sometimes;Sometimes;yes;positive;always;with friends;closest date to the exam;sometimes;sometimes;sometimes;useful;3.32;2.65;1;Below Average
+STUDENT40;0;Sometimes;None;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;sometimes;not applicable;2.24;0.47;1;Poor
+STUDENT41;0;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;never;sometimes;not useful;2.16;2.81;1;Poor
+STUDENT42;10;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;always;sometimes;sometimes;not applicable;3.18;2.53;1;Poor
+STUDENT43;4;Sometimes;None;yes;positive;always;alone;closest date to the exam;sometimes;never;always;not useful;2.31;2.69;1;Poor
+STUDENT44;2;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;always;never;always;not applicable;2.99;2.39;1;Above Average
+STUDENT45;2;Sometimes;Sometimes;yes;positive;always;with friends;closest date to the exam;always;sometimes;sometimes;not useful;3.45;2.72;1;Poor
+STUDENT46;6;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;sometimes;not useful;3.45;2.58;1;Average
+STUDENT47;2;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;always;not useful;3.08;2.17;1;Good
+STUDENT48;2;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;never;always;useful;3.92;2.91;1;Average
+STUDENT49;0;None;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;useful;2.3;2.49;1;Poor
+STUDENT50;1;Sometimes;Sometimes;yes;positive;always;with friends;closest date to the exam;sometimes;sometimes;sometimes;not useful;2.82;2.26;1;Below Average
+STUDENT51;2;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;not applicable;2.5;2.75;1;Poor
+STUDENT52;0;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;always;always;not useful;2.84;2.84;1;Above Average
+STUDENT53;9;None;None;yes;positive;always;alone;regularly during the semester;sometimes;sometimes;sometimes;not useful;3.44;2.07;1;Poor
+STUDENT54;0;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;useful;2.62;2.26;1;Good
+STUDENT55;1;None;None;yes;positive;always;alone;regularly during the semester;always;never;always;not useful;3.71;2.77;1;Average
+STUDENT56;0;Sometimes;Sometimes;yes;positive;always;not applicable;never;never;always;always;not applicable;3.8;3.03;1;Average
+STUDENT57;16;Sometimes;Often;yes;positive;always;alone;regularly during the semester;always;sometimes;always;not applicable;3.7;3.06;1;Good
+STUDENT58;4;Often;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;not useful;3.82;3.07;1;Above Average
+STUDENT59;10;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;useful;3.53;3.12;1;Average
+STUDENT60;10;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;always;sometimes;useful;3.18;2.98;1;Good
+STUDENT61;0;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;never;always;always;not useful;2.18;0.3;1;Below Average
+STUDENT62;6;None;Sometimes;yes;neutral;sometimes;alone;closest date to the exam;always;sometimes;sometimes;useful;3.14;3.15;1;Good
+STUDENT63;9;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;always;always;useful;3.79;3.32;1;Average
+STUDENT64;0;None;Sometimes;yes;positive;always;not applicable;closest date to the exam;sometimes;sometimes;sometimes;not useful;2.77;2.81;1;Good
+STUDENT65;0;Sometimes;Sometimes;yes;neutral;always;with friends;closest date to the exam;always;sometimes;always;not useful;3.04;2.66;1;Average
+STUDENT66;0;None;Sometimes;yes;neutral;sometimes;with friends;closest date to the exam;sometimes;never;sometimes;not useful;2.48;2.08;1;Below Average
+STUDENT67;1;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;not applicable;3.88;3.1;2;Good
+STUDENT68;1;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;never;useful;2.2;2.86;2;Poor
+STUDENT69;0;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;always;useful;3.42;2.7;3;Good
+STUDENT70;0;None;Sometimes;yes;positive;always;with friends;closest date to the exam;always;sometimes;always;not useful;2.76;2.02;3;Good
+STUDENT71;3;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;always;not useful;3.73;3.39;3;Excellent
+STUDENT72;4;Sometimes;None;yes;positive;always;alone;closest date to the exam;sometimes;always;always;not applicable;2.14;2.02;3;Very Good
+STUDENT73;4;Often;Often;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;always;useful;2.84;2.61;3;Very Good
+STUDENT74;10;None;None;no;positive;always;alone;regularly during the semester;always;sometimes;always;not useful;3.73;2.71;3;Very Good
+STUDENT75;1;Sometimes;Sometimes;no;positive;always;with friends;closest date to the exam;always;sometimes;always;useful;2.57;2.99;3;Excellent
+STUDENT76;9;Often;None;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;sometimes;useful;3.39;1.6;3;Excellent
+STUDENT77;3;Often;Sometimes;yes;positive;always;not applicable;regularly during the semester;sometimes;never;sometimes;not applicable;2.14;2.33;4;Above Average
+STUDENT78;3;Sometimes;Sometimes;no;positive;sometimes;not applicable;closest date to the exam;sometimes;sometimes;sometimes;useful;0.99;1.57;4;Excellent
+STUDENT79;2;Often;Often;yes;positive;sometimes;alone;closest date to the exam;always;always;sometimes;useful;2.28;2.46;4;Above Average
+STUDENT80;0;Sometimes;Sometimes;yes;neutral;always;alone;closest date to the exam;always;always;always;useful;3.43;3.1;4;Average
+STUDENT81;0;None;None;yes;neutral;always;alone;closest date to the exam;sometimes;always;never;useful;3.37;2.35;5;Above Average
+STUDENT82;3;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;always;sometimes;not applicable;3.87;3.02;5;Average
+STUDENT83;1;Sometimes;Often;yes;positive;always;alone;closest date to the exam;always;always;sometimes;not applicable;3.05;2.8;5;Excellent
+STUDENT84;0;Sometimes;Sometimes;yes;positive;always;not applicable;closest date to the exam;always;sometimes;always;not applicable;0.92;2.09;5;Excellent
+STUDENT85;0;Sometimes;Sometimes;yes;positive;always;not applicable;never;always;always;always;not applicable;3.86;3.09;5;Excellent
+STUDENT86;0;None;None;yes;positive;always;alone;closest date to the exam;always;sometimes;always;not applicable;3.3;2.74;5;Above Average
+STUDENT87;3;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;useful;3.62;3.3;5;Good
+STUDENT88;1;Sometimes;Sometimes;yes;positive;always;with friends;closest date to the exam;sometimes;sometimes;sometimes;useful;1.5;1.81;6;Very Good
+STUDENT89;2;Sometimes;Sometimes;yes;positive;always;alone;regularly during the semester;always;never;sometimes;not applicable;3.76;2.86;6;Very Good
+STUDENT90;3;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;always;never;always;not applicable;2.67;2.35;6;Very Good
+STUDENT91;4;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;always;sometimes;not applicable;3.39;2.25;6;Very Good
+STUDENT92;2;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;always;always;useful;3.91;3.45;6;Very Good
+STUDENT93;7;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;not applicable;2.05;2.08;6;Excellent
+STUDENT94;35;Sometimes;None;yes;positive;always;alone;closest date to the exam;always;always;always;useful;2.45;2.49;6;Above Average
+STUDENT95;3;Sometimes;Often;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;not applicable;3.93;3.16;6;Very Good
+STUDENT96;1;Sometimes;Often;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;not useful;3.14;2.99;7;Good
+STUDENT97;4;Often;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;useful;2.01;2.63;7;Excellent
+STUDENT98;4;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;sometimes;not useful;2.63;2.71;7;Very Good
+STUDENT99;4;Often;Sometimes;yes;positive;always;alone;closest date to the exam;always;never;sometimes;not useful;3.27;3.04;7;Excellent
+STUDENT100;10;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;sometimes;always;useful;2.38;2.28;7;Excellent
+STUDENT101;4;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;sometimes;not useful;2.72;2.84;7;Very Good
+STUDENT102;1;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;always;sometimes;not useful;2.23;2.66;7;Excellent
+STUDENT103;1;Sometimes;Sometimes;no;positive;always;alone;closest date to the exam;always;never;sometimes;not useful;2.78;3.16;7;Excellent
+STUDENT104;4;Often;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;sometimes;always;useful;3.22;3.29;7;Excellent
+STUDENT105;4;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;always;sometimes;useful;1.93;1.01;7;Average
+STUDENT106;2;Often;Sometimes;yes;positive;sometimes;alone;regularly during the semester;sometimes;never;always;not useful;2.66;2.94;7;Excellent
+STUDENT107;10;Sometimes;Sometimes;yes;positive;always;not applicable;regularly during the semester;sometimes;sometimes;sometimes;not useful;3.32;3.17;7;Excellent
+STUDENT108;2;Sometimes;Sometimes;yes;positive;always;with friends;closest date to the exam;sometimes;always;sometimes;not useful;3.25;2.15;7;Very Good
+STUDENT109;7;Often;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;always;never;useful;2.83;2.95;7;Very Good
+STUDENT110;10;Sometimes;Sometimes;yes;positive;always;with friends;regularly during the semester;always;sometimes;always;not useful;3.2;3.38;7;Excellent
+STUDENT111;1;Sometimes;Sometimes;yes;positive;sometimes;alone;closest date to the exam;sometimes;sometimes;sometimes;not useful;2.15;2.82;8;Below Average
+STUDENT112;0;Sometimes;Sometimes;no;negative;always;alone;closest date to the exam;always;never;always;not applicable;3.32;2.63;8;Below Average
+STUDENT113;0;None;None;no;neutral;always;with friends;closest date to the exam;always;always;always;not useful;3.33;2.19;8;Below Average
+STUDENT114;1;Sometimes;Often;no;neutral;sometimes;with friends;closest date to the exam;sometimes;sometimes;never;not useful;0.85;2.15;8;Poor
+STUDENT115;2;Sometimes;Sometimes;no;negative;always;alone;closest date to the exam;sometimes;sometimes;never;useful;1.34;1.59;8;Below Average
+STUDENT116;6;Often;Sometimes;no;neutral;always;with friends;regularly during the semester;always;sometimes;always;useful;2.05;2.45;8;Poor
+STUDENT117;10;Often;Often;no;positive;always;alone;closest date to the exam;always;always;always;not useful;2.38;2.77;8;Poor
+STUDENT118;2;Sometimes;Often;no;positive;sometimes;alone;closest date to the exam;sometimes;always;sometimes;not useful;2.19;2.65;8;Poor
+STUDENT119;0;Sometimes;Sometimes;yes;positive;always;not applicable;closest date to the exam;always;always;sometimes;useful;2.85;2.93;8;Poor
+STUDENT120;21;Sometimes;Sometimes;yes;positive;always;alone;regularly during the semester;sometimes;sometimes;always;not useful;2.93;2.88;8;Below Average
+STUDENT121;0;None;None;yes;positive;sometimes;with friends;closest date to the exam;always;always;always;useful;2.3;2.34;8;Poor
+STUDENT122;40;Often;Often;yes;neutral;always;with friends;closest date to the exam;never;never;never;not useful;0.43;1.02;8;Fail
+STUDENT123;3;None;Sometimes;yes;negative;always;with friends;closest date to the exam;always;sometimes;sometimes;not useful;3.31;2.68;8;Below Average
+STUDENT124;1;Sometimes;Often;no;positive;always;alone;closest date to the exam;always;always;sometimes;not useful;0.81;0.21;8;Poor
+STUDENT125;19;Sometimes;Sometimes;no;positive;always;with friends;regularly during the semester;always;always;sometimes;not useful;2.63;2.63;9;Average
+STUDENT126;10;Sometimes;Often;no;positive;always;alone;regularly during the semester;always;sometimes;always;not useful;0.81;2.62;9;Below Average
+STUDENT127;15;Sometimes;Often;yes;positive;always;with friends;closest date to the exam;always;always;always;not useful;2.31;2.05;9;Average
+STUDENT128;1;None;None;no;positive;always;alone;closest date to the exam;always;sometimes;sometimes;not useful;2.09;2.06;9;Poor
+STUDENT129;3;None;None;no;positive;always;alone;closest date to the exam;always;sometimes;sometimes;not useful;2.49;2.29;9;Fail
+STUDENT130;13;Sometimes;Often;no;positive;always;with friends;regularly during the semester;always;sometimes;always;useful;2.19;2.88;9;Average
+STUDENT131;14;Sometimes;Sometimes;no;positive;always;alone;regularly during the semester;always;never;always;useful;2.32;2.83;9;Poor
+STUDENT132;15;None;Often;no;positive;always;alone;regularly during the semester;always;sometimes;always;not useful;3.67;2.6;9;Above Average
+STUDENT133;4;Sometimes;Often;no;positive;always;with friends;closest date to the exam;always;sometimes;always;not useful;3.77;3.28;9;Average
+STUDENT134;6;None;Sometimes;no;positive;always;alone;closest date to the exam;always;always;always;useful;3.55;2.92;9;Average
+STUDENT135;3;Sometimes;Sometimes;no;positive;always;alone;closest date to the exam;sometimes;never;sometimes;not useful;2.22;2.64;9;Poor
+STUDENT136;3;Often;Sometimes;yes;neutral;always;alone;closest date to the exam;always;always;sometimes;not useful;2.84;2.43;9;Below Average
+STUDENT137;3;Sometimes;Sometimes;no;positive;always;not applicable;closest date to the exam;always;sometimes;sometimes;not useful;2.37;2.19;9;Fail
+STUDENT138;1;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;never;always;not useful;2.3;3.05;9;Below Average
+STUDENT139;3;Sometimes;Often;no;neutral;always;with friends;closest date to the exam;always;sometimes;always;not useful;0.17;2.67;9;Fail
+STUDENT140;0;None;Sometimes;no;positive;sometimes;with friends;closest date to the exam;sometimes;always;sometimes;not useful;1.48;2.07;9;Fail
+STUDENT141;9;Often;Sometimes;yes;positive;always;alone;closest date to the exam;sometimes;never;sometimes;not useful;2.76;2.57;9;Good
+STUDENT142;7;Sometimes;Sometimes;no;positive;sometimes;alone;closest date to the exam;always;sometimes;sometimes;not useful;3.88;2.87;9;Good
+STUDENT143;3;Sometimes;Sometimes;yes;positive;always;alone;closest date to the exam;always;always;sometimes;not useful;3.45;2.79;9;Poor
+STUDENT144;2;Sometimes;None;yes;positive;always;with friends;closest date to the exam;sometimes;never;sometimes;not useful;3.5;2.54;9;Above Average
+STUDENT145;8;None;None;yes;positive;always;with friends;closest date to the exam;always;sometimes;always;not useful;3.76;3.4;9;Average

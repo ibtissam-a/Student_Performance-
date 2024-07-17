@@ -1,0 +1,146 @@
+student_id;mothers_education;father_education;nb_sisters_brothers;parental_status;mother_occupation ;father_occupation
+STUDENT1;primary school;secondary school;3;married;housewife;other
+STUDENT2;secondary school;high school;2;married;housewife;retired
+STUDENT3;secondary school;secondary school;2;married;housewife;retired
+STUDENT4;primary school;secondary school;6;married;housewife;retired
+STUDENT5;high school;high school;2;married;housewife;self-employment
+STUDENT6;high school;high school;2;married;housewife;private sector employee
+STUDENT7;primary school;high school;1;married;housewife;self-employment
+STUDENT8; university;high school;1;married;private sector employee;private sector employee
+STUDENT9;secondary school; university;2;married;housewife;self-employment
+STUDENT10;primary school;secondary school;3;married;housewife;private sector employee
+STUDENT11;high school; university;2;married;government officer;government officer
+STUDENT12;MSc;MSc;1;married;government officer;government officer
+STUDENT13;high school;MSc;4;divorced;housewife;government officer
+STUDENT14;secondary school;secondary school;2;married;housewife;private sector employee
+STUDENT15;high school;primary school;2;married;private sector employee;retired
+STUDENT16; university; university;2;married;government officer;retired
+STUDENT17;secondary school;secondary school;4;married;housewife;private sector employee
+STUDENT18;secondary school;secondary school;2;married;housewife;retired
+STUDENT19;secondary school;secondary school;5;married;housewife;other
+STUDENT20;high school;high school;3;married;housewife;self-employment
+STUDENT21;high school;high school;3;divorced;housewife;private sector employee
+STUDENT22;secondary school;secondary school;4;married;housewife;private sector employee
+STUDENT23;primary school;primary school;4;divorced;housewife;self-employment
+STUDENT24;primary school; university;3;married;housewife;retired
+STUDENT25;high school;primary school;3;married;housewife;self-employment
+STUDENT26;primary school; university;3;married;housewife;self-employment
+STUDENT27; university; university;4;married;housewife;self-employment
+STUDENT28;primary school;primary school;4;married;housewife;private sector employee
+STUDENT29;secondary school;secondary school;4;married;housewife;retired
+STUDENT30;high school;high school;2;married;private sector employee;retired
+STUDENT31;primary school;primary school;7;married;housewife;self-employment
+STUDENT32;primary school;secondary school;4;married;housewife;private sector employee
+STUDENT33;secondary school;secondary school;2;married;housewife;retired
+STUDENT34;primary school;secondary school;7;married;housewife;private sector employee
+STUDENT35;high school;high school;3;married;housewife;self-employment
+STUDENT36;primary school;secondary school;5;married;housewife;private sector employee
+STUDENT37;primary school;primary school;2;divorced;private sector employee;private sector employee
+STUDENT38;high school;high school;1;married;housewife;private sector employee
+STUDENT39;high school;high school;1;married;housewife;self-employment
+STUDENT40;primary school;high school;1;married;housewife;self-employment
+STUDENT41;secondary school;high school;1;married;housewife;other
+STUDENT42;primary school; university;2;married;housewife;government officer
+STUDENT43; university; university;2;married;government officer;retired
+STUDENT44;secondary school;high school;3;married;housewife;retired
+STUDENT45;primary school;high school;2;married;housewife;other
+STUDENT46;secondary school;high school;7;married;housewife;self-employment
+STUDENT47;primary school;secondary school;3;married;housewife;other
+STUDENT48; university;high school;1;married;self-employment;self-employment
+STUDENT49;high school;high school;3;married;housewife;government officer
+STUDENT50;secondary school;high school;2;married;housewife;self-employment
+STUDENT51;primary school;primary school;2;married;housewife;private sector employee
+STUDENT52;primary school;secondary school;6;married;housewife;retired
+STUDENT53;primary school;high school;4;married;housewife;retired
+STUDENT54;primary school;primary school;7;married;housewife;retired
+STUDENT55;primary school; university;2;married;private sector employee;government officer
+STUDENT56;primary school;primary school;5;died_one of them or both;housewife;retired
+STUDENT57;primary school;high school;8;married;housewife;self-employment
+STUDENT58; university;secondary school;3;married;government officer;private sector employee
+STUDENT59;primary school;high school;5;divorced;housewife;retired
+STUDENT60; university; university;3;married;housewife;private sector employee
+STUDENT61;Ph.D;primary school;3;married;housewife;private sector employee
+STUDENT62;primary school;high school;4;married;housewife;private sector employee
+STUDENT63;secondary school;high school;2;married;housewife;self-employment
+STUDENT64;primary school;high school;3;married;housewife;retired
+STUDENT65;secondary school;secondary school;2;married;housewife;retired
+STUDENT66;secondary school; university;3;married;housewife;self-employment
+STUDENT67;high school;secondary school;6;married;housewife;other
+STUDENT68;high school; university;4;divorced;housewife;government officer
+STUDENT69;secondary school;high school;8;died_one of them or both;housewife;other
+STUDENT70;secondary school;secondary school;2;married;housewife;private sector employee
+STUDENT71; university;high school;1;divorced;private sector employee;government officer
+STUDENT72;primary school;high school;7;married;housewife;self-employment
+STUDENT73;primary school;primary school;2;married;housewife;private sector employee
+STUDENT74;primary school;high school;4;married;housewife;self-employment
+STUDENT75;secondary school;secondary school;3;married;housewife;retired
+STUDENT76;primary school;MSc;4;married;housewife;government officer
+STUDENT77;MSc; university;3;married;private sector employee;private sector employee
+STUDENT78;Ph.D;MSc;2;married;private sector employee;government officer
+STUDENT79;primary school;high school;4;married;housewife;self-employment
+STUDENT80;primary school;high school;4;married;housewife;self-employment
+STUDENT81;primary school;primary school;2;married;housewife;private sector employee
+STUDENT82;primary school;secondary school;4;married;housewife;private sector employee
+STUDENT83;high school;primary school;3;married;housewife;private sector employee
+STUDENT84; university; university;2;married;retired;government officer
+STUDENT85; university;secondary school;5;died_one of them or both;housewife;retired
+STUDENT86;primary school;primary school;6;married;housewife;retired
+STUDENT87;high school;high school;2;married;private sector employee;retired
+STUDENT88;high school; university;2;married;retired;retired
+STUDENT89; university; university;1;married;government officer;government officer
+STUDENT90;high school;MSc;3;married;housewife;government officer
+STUDENT91;high school;high school;1;married;private sector employee;government officer
+STUDENT92; university;primary school;7;married;housewife;private sector employee
+STUDENT93;high school; university;4;married;government officer;government officer
+STUDENT94;primary school;secondary school;4;married;housewife;private sector employee
+STUDENT95;high school;secondary school;6;married;housewife;other
+STUDENT96;high school; university;1;married;housewife;retired
+STUDENT97;secondary school;secondary school;3;married;private sector employee;government officer
+STUDENT98;high school;high school;4;married;housewife;private sector employee
+STUDENT99;secondary school; university;2;married;housewife;other
+STUDENT100;high school; university;2;married;housewife;retired
+STUDENT101; university;primary school;2;married;government officer;private sector employee
+STUDENT102;secondary school;high school;1;married;housewife;self-employment
+STUDENT103;high school;primary school;1;divorced;private sector employee;self-employment
+STUDENT104;primary school;high school;4;married;housewife;retired
+STUDENT105; university; university;1;married;government officer;government officer
+STUDENT106;secondary school;secondary school;4;married;housewife;self-employment
+STUDENT107;secondary school;secondary school;1;married;housewife;retired
+STUDENT108;primary school;high school;5;married;housewife;self-employment
+STUDENT109;primary school;secondary school;1;died_one of them or both;retired;other
+STUDENT110; university; university;2;died_one of them or both;housewife;other
+STUDENT111; university; university;2;divorced;retired;other
+STUDENT112;high school;high school;1;married;government officer;government officer
+STUDENT113;primary school;primary school;2;married;housewife;retired
+STUDENT114; university; university;1;married;government officer;government officer
+STUDENT115;primary school;primary school;1;married;housewife;retired
+STUDENT116;primary school;primary school;2;married;housewife;government officer
+STUDENT117;primary school;primary school;8;married;housewife;self-employment
+STUDENT118; university; university;1;married;retired;private sector employee
+STUDENT119;primary school;secondary school;3;married;private sector employee;self-employment
+STUDENT120;high school;high school;2;died_one of them or both;housewife;other
+STUDENT121;high school;high school;2;married;government officer;self-employment
+STUDENT122;primary school;primary school;8;died_one of them or both;housewife;self-employment
+STUDENT123;high school;high school;2;married;housewife;retired
+STUDENT124;high school;secondary school;4;married;retired;retired
+STUDENT125;secondary school;high school;2;married;private sector employee;private sector employee
+STUDENT126;primary school;primary school;6;married;housewife;private sector employee
+STUDENT127; university;Ph.D;2;married;private sector employee;private sector employee
+STUDENT128;high school;secondary school;2;married;government officer;self-employment
+STUDENT129;high school; university;2;married;private sector employee;government officer
+STUDENT130;primary school;primary school;3;married;housewife;self-employment
+STUDENT131;primary school;secondary school;3;married;housewife;self-employment
+STUDENT132; university;high school;1;married;government officer;government officer
+STUDENT133;primary school;secondary school;3;married;housewife;retired
+STUDENT134;primary school;primary school;1;married;housewife;private sector employee
+STUDENT135;primary school;primary school;2;married;private sector employee;private sector employee
+STUDENT136;high school;high school;1;married;housewife;retired
+STUDENT137;high school;high school;3;married;government officer;self-employment
+STUDENT138;secondary school;secondary school;2;married;housewife;retired
+STUDENT139;high school;primary school;1;divorced;private sector employee;other
+STUDENT140;high school;high school;1;married;self-employment;self-employment
+STUDENT141;primary school;secondary school;2;divorced;housewife;self-employment
+STUDENT142;primary school;primary school;8;married;housewife;retired
+STUDENT143;high school; university;4;married;housewife;self-employment
+STUDENT144; university; university;1;married;government officer;private sector employee
+STUDENT145;high school;primary school;8;married;housewife;self-employment

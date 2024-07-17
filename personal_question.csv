@@ -1,0 +1,146 @@
+student_id;student_age;student_gender;graduated_high_school_type;scholarship_type;additional_work;regular_artistic_or_sports_activity;is_there_partner;total_salary ;transportation to_the_university;accommodation_type_in_cyprus
+STUDENT1;23;Male;other;50;yes;no;no;195;Bus;rental
+STUDENT2;22;Male;other;50;yes;no;no;177;Bus;rental
+STUDENT3;25;Male;state;50;no;no;no;210;Other;dormitory
+STUDENT4;21;Female;private;50;yes;no;yes;232;Bus;dormitory
+STUDENT5;22;Male;private;50;no;no;yes;320;Bus;Other
+STUDENT6;24;Male;state;50;no;no;no;211;Bus;rental
+STUDENT7;18;Male;state;75;no;no;no;158;Bus;with family
+STUDENT8;21;Female;state;50;yes;yes;yes;232;Private car/taxi;with family
+STUDENT9;24;Female;other;50;no;yes;yes;188;Bus;with family
+STUDENT10;22;Female;state;50;no;no;yes;329;Other;dormitory
+STUDENT11;21;Female;private;50;no;no;no;318;Private car/taxi;with family
+STUDENT12;21;Female;private;75;yes;yes;no;377;Private car/taxi;with family
+STUDENT13;21;Female;private;75;no;no;no;179;Bus;rental
+STUDENT14;22;Female;state;100;no;no;no;171;Bus;rental
+STUDENT15;32;Male;state;75;yes;yes;no;294;Other;dormitory
+STUDENT16;23;Male;state;50;no;no;no;197;Bus;dormitory
+STUDENT17;19;Female;state;100;no;yes;no;152;Bus;rental
+STUDENT18;22;Male;state;50;no;no;no;155;Bus;rental
+STUDENT19;21;Female;state;75;no;no;no;312;Bus;rental
+STUDENT20;20;Male;private;50;no;no;yes;214;Private car/taxi;dormitory
+STUDENT21;18;Male;state;100;yes;no;yes;141;Other;dormitory
+STUDENT22;21;Male;state;100;no;no;yes;143;Other;dormitory
+STUDENT23;22;Male;state;50;yes;no;yes;135;Bus;rental
+STUDENT24;41;Male;state;25;yes;yes;no;707;Bus;rental
+STUDENT25;24;Male;state;50;no;no;no;208;Bus;rental
+STUDENT26;22;Male;state;50;no;no;yes;155;Bus;dormitory
+STUDENT27;25;Male;state;50;no;yes;yes;149;Bus;rental
+STUDENT28;19;Male;private;50;yes;no;no;190;Bus;rental
+STUDENT29;27;Male;state;50;no;no;yes;190;Other;dormitory
+STUDENT30;24;Male;other;75;no;no;no;136;Other;dormitory
+STUDENT31;24;Male;state;100;yes;yes;yes;159;Bus;dormitory
+STUDENT32;34;Male;state;50;yes;no;no;162;Bus;dormitory
+STUDENT33;25;Female;state;50;no;no;no;243;Bus;rental
+STUDENT34;23;Female;state;50;yes;no;yes;180;Bus;rental
+STUDENT35;18;Male;private;50;no;no;yes;237;Bus;rental
+STUDENT36;18;Male;private;75;no;no;no;283;Bus;rental
+STUDENT37;22;Male;other;75;yes;no;yes;325;Bus;rental
+STUDENT38;25;Male;state;50;yes;yes;yes;228;Private car/taxi;with family
+STUDENT39;22;Male;state;100;no;no;no;191;Bus;rental
+STUDENT40;25;Female;state;50;no;no;yes;185;Bus;dormitory
+STUDENT41;19;Male;private;50;no;no;no;220;Bus;rental
+STUDENT42;26;Male;state;50;yes;no;no;243;Bus;dormitory
+STUDENT43;23;Male;state;50;no;yes;no;186;Other;dormitory
+STUDENT44;21;Male;state;50;no;no;yes;177;Bus;rental
+STUDENT45;23;Male;other;50;no;no;yes;168;Bus;rental
+STUDENT46;20;Male;state;50;no;no;yes;410;Bus;rental
+STUDENT47;25;Male;state;50;no;no;yes;178;Bus;rental
+STUDENT48;23;Male;state;50;no;no;yes;157;Bus;dormitory
+STUDENT49;18;Male;state;50;no;yes;yes;169;Bus;dormitory
+STUDENT50;20;Male;private;75;no;no;no;219;Other;rental
+STUDENT51;24;Male;state;50;no;no;yes;235;Private car/taxi;rental
+STUDENT52;25;Female;other;50;yes;yes;no;193;Bus;rental
+STUDENT53;24;Female;state;50;yes;no;no;263;Bus;rental
+STUDENT54;22;Female;state;50;no;yes;no;205;Bus;rental
+STUDENT55;23;Male;state;50;no;no;no;299;Other;dormitory
+STUDENT56;42;Male;state;50;yes;no;yes;357;Bus;dormitory
+STUDENT57;24;Male;state;50;no;yes;no;141;Bus;rental
+STUDENT58;22;Male;state;50;yes;yes;no;153;Bus;rental
+STUDENT59;33;Male;state;50;no;no;yes;290;Bus;rental
+STUDENT60;24;Male;state;50;no;yes;yes;135;Bus;rental
+STUDENT61;23;Female;state;50;no;no;no;795;Private car/taxi;rental
+STUDENT62;21;Male;other;50;no;yes;no;244;Bus;dormitory
+STUDENT63;24;Male;state;50;no;no;no;183;Other;dormitory
+STUDENT64;24;Male;state;75;no;no;yes;234;Bus;rental
+STUDENT65;22;Male;other;100;no;no;no;145;Bus;rental
+STUDENT66;19;Male;state;50;no;no;yes;322;Bus;rental
+STUDENT67;24;Male;state;50;no;no;yes;171;Bus;rental
+STUDENT68;23;Male;other;50;yes;yes;no;325;Bus;dormitory
+STUDENT69;24;Female;state;75;yes;no;no;139;Bus;rental
+STUDENT70;24;Female;state;75;no;no;yes;187;Bus;rental
+STUDENT71;20;Male;state;75;no;yes;yes;165;Bus;rental
+STUDENT72;18;Female;other;75;no;no;no;140;Bus;with family
+STUDENT73;21;Male;state;50;no;yes;yes;171;Bus;dormitory
+STUDENT74;22;Male;state;75;no;no;no;136;Bus;dormitory
+STUDENT75;18;Male;state;75;no;no;no;154;Bus;rental
+STUDENT76;19;Male;state;75;no;yes;no;137;Bus;with family
+STUDENT77;24;Male;private;25;no;yes;no;247;Bus;rental
+STUDENT78;19;Male;private;25;no;no;yes;260;Private car/taxi;dormitory
+STUDENT79;23;Female;state;75;yes;yes;no;184;Bus;rental
+STUDENT80;23;Male;state;75;no;no;no;136;Bus;rental
+STUDENT81;22;Female;state;50;yes;no;yes;156;Private car/taxi;rental
+STUDENT82;43;Male;state;50;yes;no;no;195;Bus;dormitory
+STUDENT83;24;Male;state;75;yes;no;yes;270;Bus;rental
+STUDENT84;24;Male;other;50;no;no;no;304;Bus;rental
+STUDENT85;34;Male;other;50;yes;no;yes;313;Bus;dormitory
+STUDENT86;18;Male;state;100;no;no;no;239;Bus;rental
+STUDENT87;25;Male;state;75;no;no;no;151;Other;dormitory
+STUDENT88;25;Male;state;50;no;yes;no;227;Bus;rental
+STUDENT89;21;Male;state;75;no;yes;yes;178;Bus;rental
+STUDENT90;25;Male;state;50;no;no;no;173;Bus;rental
+STUDENT91;24;Female;state;50;no;yes;yes;197;Private car/taxi;with family
+STUDENT92;22;Male;state;100;yes;yes;yes;137;Bus;dormitory
+STUDENT93;21;Male;state;50;no;no;no;178;Bus;rental
+STUDENT94;20;Male;state;0;yes;no;yes;158;Bus;dormitory
+STUDENT95;22;Male;state;50;no;no;yes;196;Bus;rental
+STUDENT96;19;Male;other;100;yes;yes;yes;175;Private car/taxi;with family
+STUDENT97;21;Male;state;75;no;yes;yes;158;Private car/taxi;with family
+STUDENT98;21;Male;state;75;yes;no;no;149;Bus;with family
+STUDENT99;20;Male;state;75;no;yes;no;167;Other;dormitory
+STUDENT100;25;Male;state;50;no;no;no;143;Other;dormitory
+STUDENT101;21;Male;state;75;no;no;no;180;Private car/taxi;with family
+STUDENT102;18;Male;state;75;no;no;yes;266;Bus;with family
+STUDENT103;21;Male;state;50;no;no;yes;139;Bus;dormitory
+STUDENT104;18;Male;private;75;no;no;yes;991;Bus;dormitory
+STUDENT105;19;Female;state;50;no;no;no;142;Private car/taxi;dormitory
+STUDENT106;20;Male;state;75;yes;yes;no;147;Bus;rental
+STUDENT107;21;Male;state;75;no;yes;no;200;Bus;dormitory
+STUDENT108;20;Female;state;75;yes;yes;no;186;Bus;with family
+STUDENT109;25;Female;private;100;no;yes;no;261;Private car/taxi;rental
+STUDENT110;19;Male;private;50;no;yes;yes;141;Private car/taxi;dormitory
+STUDENT111;25;Male;state;50;no;no;no;218;Other;dormitory
+STUDENT112;20;Female;private;100;no;yes;no;183;Bus;dormitory
+STUDENT113;22;Female;other;50;yes;no;no;189; bicycle;with family
+STUDENT114;25;Female;other;50;no;no;no;184;Other;dormitory
+STUDENT115;25;Female;state;100;yes;yes;no;364;Bus;rental
+STUDENT116;25;Female;state;100;yes;no;yes;155;Bus;rental
+STUDENT117;24;Female;state;100;no;no;no;187;Bus;rental
+STUDENT118;44;Female;private;50;no;yes;no;147;Bus;dormitory
+STUDENT119;21;Male;state;100;no;yes;yes;198;Other;dormitory
+STUDENT120;22;Female;state;75;no;yes;no;140;Bus;dormitory
+STUDENT121;25;Female;private;50;yes;yes;yes;237;Private car/taxi;with family
+STUDENT122;22;Female;state;50;yes;yes;yes;179;Private car/taxi;rental
+STUDENT123;19;Male;state;100;no;yes;no;142;Bus;rental
+STUDENT124;23;Female;other;50;no;no;no;315;Bus;rental
+STUDENT125;21;Female;state;75;yes;yes;yes;192;Bus;with family
+STUDENT126;18;Female;state;100;yes;yes;no;176;Bus;with family
+STUDENT127;20;Female;private;75;yes;yes;yes;332;Private car/taxi;with family
+STUDENT128;20;Female;state;75;no;no;no;147;Other;with family
+STUDENT129;19;Female;state;75;no;yes;yes;192;Other;with family
+STUDENT130;21;Female;state;50;yes;yes;no;200;Bus;rental
+STUDENT131;18;Female;state;50;yes;yes;no;189;Bus;rental
+STUDENT132;20;Female;private;100;no;yes;no;146;Private car/taxi;dormitory
+STUDENT133;20;Female;private;100;no;yes;no;137;Bus;dormitory
+STUDENT134;18;Female;state;100;no;no;yes;148;Bus;rental
+STUDENT135;18;Female;state;75;no;yes;no;192;Private car/taxi;with family
+STUDENT136;24;Female;state;50;yes;yes;no;170;Other;dormitory
+STUDENT137;19;Female;state;50;yes;yes;yes;182;Private car/taxi;with family
+STUDENT138;21;Female;private;100;no;yes;no;200;Bus;rental
+STUDENT139;21;Female;state;75;yes;yes;yes;695;Private car/taxi;with family
+STUDENT140;19;Female;state;75;yes;no;yes;236;Private car/taxi;with family
+STUDENT141;24;Female;state;50;yes;yes;no;160;Bus;dormitory
+STUDENT142;20;Female;state;75;no;no;no;171;Other;dormitory
+STUDENT143;20;Female;private;75;no;no;no;189;Bus;rental
+STUDENT144;22;Female;state;75;yes;yes;yes;630;Private car/taxi;with family
+STUDENT145;19;Female;private;100;no;no;no;276;Bus;rental
